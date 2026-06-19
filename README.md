@@ -46,12 +46,6 @@ COVID-19-Analysis/
 
 │ └── world_map.html
 
-├── covid_analysis.py
-
-├── requirements.txt
-
-└── README.md
-
 ## Features
 
 * Data cleaning and preprocessing
